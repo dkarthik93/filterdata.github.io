@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/filterdata.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/filterdata.github.io/static/js/main.bcd57fdb.js",
+    "static/js/498.c4a05616.chunk.js": "/filterdata.github.io/static/js/498.c4a05616.chunk.js",
+    "static/js/703.555ebd54.chunk.js": "/filterdata.github.io/static/js/703.555ebd54.chunk.js",
+    "static/js/302.2592236b.chunk.js": "/filterdata.github.io/static/js/302.2592236b.chunk.js",
+    "static/js/787.e68fa28f.chunk.js": "/filterdata.github.io/static/js/787.e68fa28f.chunk.js",
+    "index.html": "/filterdata.github.io/index.html",
+    "main.073c9b0a.css.map": "/filterdata.github.io/static/css/main.073c9b0a.css.map",
+    "main.bcd57fdb.js.map": "/filterdata.github.io/static/js/main.bcd57fdb.js.map",
+    "498.c4a05616.chunk.js.map": "/filterdata.github.io/static/js/498.c4a05616.chunk.js.map",
+    "703.555ebd54.chunk.js.map": "/filterdata.github.io/static/js/703.555ebd54.chunk.js.map",
+    "302.2592236b.chunk.js.map": "/filterdata.github.io/static/js/302.2592236b.chunk.js.map",
+    "787.e68fa28f.chunk.js.map": "/filterdata.github.io/static/js/787.e68fa28f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.bcd57fdb.js"
+  ]
+}
