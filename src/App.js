@@ -71,7 +71,7 @@ function App() {
   return (
     <div className="App">
       <h1 align="center">React-Data-Filter-App</h1>
-      <h4 align='center'>Import Data from Excel, CSV in Material Table</h4>
+      <h4 align='center'>Import Data from Excel, CSV</h4>
       <input type="file" onChange={importExcel} />
       <MaterialTable title="Employee Data" data={data} columns={colDefs}/> 
     </div>
